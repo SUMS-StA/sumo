@@ -6,3 +6,4 @@ COPY Gemfile Gemfile
 RUN bundle
 RUN bundle clean --force
 CMD jekyll serve --host 0.0.0.0
+ 
