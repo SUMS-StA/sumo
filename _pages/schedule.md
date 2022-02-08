@@ -19,4 +19,4 @@ The event takes place of **Saturday 5th of March**. The Schedule for the event i
 
 The event will be free to attend; however, teams are expected to organise their own transport to and from St Andrews. 
 
-More information and updates will be posted on here on in the [news](/news) channel the [SUMO Facebook](https://fb.me/e/4xUzeQ02X) but if you have questions, feel free to direct them to sums@st-andrews.ac.uk. 
+More information and updates will be posted on here on in the [news]({{ '/news' | relative_url }}) channel the [SUMO Facebook](https://fb.me/e/4xUzeQ02X) but if you have questions, feel free to direct them to sums@st-andrews.ac.uk. 
