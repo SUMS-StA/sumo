@@ -5,7 +5,7 @@ permalink: /schedule/
 
 After a solid day's worth of maths, all contestants will be invited for an optional social to provide an opportunity to network and meet likeminded students from other universities. 
 
-The event takes place of **Saturday 5th of March**./ The Schedule for the event is: 
+The event takes place of **Saturday 5th of March**. The Schedule for the event is: 
 
 > 09:00 – 09:45: Arrival 
 > 
