@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Scottish University Mathematics Olympiad
+title: Scottish Universities Mathematics Olympiad
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -22,7 +22,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: "aqua" 
-search: true
 
 # Build settings
 markdown: kramdown
@@ -60,29 +59,23 @@ plugins:
 author:
   name   : "SUMO"
   avatar : "assets/images/SUMOLOGO.jpg"
-  bio    : "BIO"
+  bio    : "I am a cute nerd who is good at maths."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Facebook Event"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://fb.me/e/1e5wHQJt9"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/SUMS.StA"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SUMS-StA"
+      url: "https://www.instagram.com/usta_sums/"
 
 defaults:
   # _posts

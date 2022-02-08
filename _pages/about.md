@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The Scottish Universities Mathematics Olympiad is an annual competition run by St Andrews University Mathematics Society. It aims to promote critical thinking and problem solving skills, as well as serve as a social platform for anyone to meet their soulmates in maths. Since ...., we have had undergraduate students from across Scotland take part in the events. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+All students from all departments are welcome. Although problems may require some experience and knowledge in maths, our problems are designed with minimal background knowledge needed (that means you won't find some 12-dimensional manifold mumble jumbo on the paper).
+
+We also would really love your problem donations, please contact us through email if you would like to donate. Thanks.
+
+## Contacts
+Email: [sums@st-andrews.ac.uk](mailto:sums@st-andrews.ac.uk)
+
+Address:  \
+University of St Andrews \
+College Gate \
+St Andrews \
+KY16 9AJ  

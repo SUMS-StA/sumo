@@ -1,6 +1,10 @@
 main:
   - title: "Registrations"
     url: /registrations/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Rules"
+    url: /rules/
   - title: "News"
     url: /news/
   - title: "About"
