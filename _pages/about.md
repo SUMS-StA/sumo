@@ -3,13 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-The Scottish Universities Mathematics Olympiad is an annual competition run by St Andrews University Mathematics Society. It aims to promote critical thinking and problem solving skills, as well as serve as a social platform for any undergraduate student to meet their soulmates in maths.
+The Scottish Universities Mathematics Olympiad (SUMO) is an annual team competition, currently run by St Andrews University Mathematics Society (SUMS). It aims to promote critical thinking and problem-solving skills, as well as serve as a steppingstone for Scottish students to form meaningful connections due to a shared interest in mathematics.  
 
-All students from all departments are welcome. Although problems may require some experience and knowledge in maths, our problems are designed with minimal background knowledge needed (that means you won't find some 12-dimensional manifold mumble jumbo on the paper).
+After realising the interaction among mathematics students in Scotland was limited by the lack of maths-focused inter-university events, the 2019 – 2020 SUMS committee successfully held the first SUMO competition in February 2020. The event was unfortunately cancelled in 2021 due to the ongoing coronavirus pandemic but is returning this year, to be held in St Andrews on Saturday 5th March.  
 
-We also would really love your problem donations, please contact us through email if you would like to donate. Thanks.
+All undergraduate students (regardless of year or department) are welcome to compete, as the problems are designed to be accessible with minimal background knowledge required. This year’s questions will be of a similar nature to those from British Maths Olympiad and Imperial College Mathematics Competition. 
+
+If you would like to donate a problem that could be used for our competition or have any questions at all, please contact us via email. 
 
 ## Contacts
+
 Email: [sums@st-andrews.ac.uk](mailto:sums@st-andrews.ac.uk)
 
 Address:  \

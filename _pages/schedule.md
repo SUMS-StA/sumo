@@ -3,9 +3,11 @@ title: Schedule
 permalink: /schedule/
 ---
 
-After a solid day's worth of maths, all contestants will be invited for an optional social to provide an opportunity to network and meet likeminded students from other universities. 
+The event will take place on **Saturday 5th March** in St Andrews.  
 
-The event takes place of **Saturday 5th of March**. The Schedule for the event is: 
+After the main competition, all contestants will be invited for an optional social to provide an opportunity to network and meet likeminded students from other universities. 
+
+It will be free to attend, however teams are expected to organise their own transport to and from St Andrews. 
 
 > 09:00 – 09:45: Arrival 
 > 
@@ -16,7 +18,3 @@ The event takes place of **Saturday 5th of March**. The Schedule for the event i
 > 14:00 – 15:00: Break 
 > 
 > 15:00 onwards: Social 
-
-The event will be free to attend; however, teams are expected to organise their own transport to and from St Andrews. 
-
-More information and updates will be posted on here on in the [news]({{ '/news' | relative_url }}) channel the [SUMO Facebook](https://fb.me/e/4xUzeQ02X) but if you have questions, feel free to direct them to sums@st-andrews.ac.uk. 
