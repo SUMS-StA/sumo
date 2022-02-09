@@ -3,8 +3,6 @@ main:
     url: /registrations/
   - title: "Schedule"
     url: /schedule/
-  - title: "News"
-    url: /news/
   - title: "About"
     url: /about/
   - title: "Organisers"
