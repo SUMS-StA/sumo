@@ -5,5 +5,5 @@ WORKDIR /usr/local/app
 COPY Gemfile Gemfile
 RUN bundle
 RUN bundle clean --force
-CMD jekyll serve --host 0.0.0.0
+CMD jekyll serve --host 0.0.0.0 --baseurl /test-base
  
