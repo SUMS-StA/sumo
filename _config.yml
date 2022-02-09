@@ -61,10 +61,18 @@ author:
   avatar : "assets/images/SUMOLOGO.jpg"
   bio    : "I am a cute nerd who is good at maths."
   links:
-    - label: "Facebook Event"
+    - label: "SUMO Facebook Event"
       icon: "fab fa-fw fa-facebook"
       url: "https://fb.me/e/1e5wHQJt9"
-
+    - label: "SUMS Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/SUMS.StA"
+    - label: "SUMS Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/usta_sums/"
+    - label: "Email: sums@st-andrews.ac.uk"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:sums@st-andrews.ac.uk"
 footer:
   links:
     - label: "Facebook"
