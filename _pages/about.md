@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-The Scottish Universities Mathematics Olympiad (SUMO) is an annual team competition, designed to promote critical thinking and problem-solving skills, as well as bring together Scottish undergraduates with an interest in mathematics.
+The Scottish Universities Mathematics Olympiad (SUMO) is an annual team competition, currently run by St Andrews University Mathematics Society (SUMS). It aims to promote critical thinking and problem-solving skills, as well as serve as a steppingstone for Scottish students to form meaningful connections due to a shared interest in mathematics.  
 
 After realising the interaction among mathematics students in Scotland was limited by the lack of maths-focused inter-university events, the 2019 – 2020 SUMS committee successfully held the first SUMO competition in February 2020. The event was unfortunately cancelled in 2021 due to the ongoing coronavirus pandemic but is returning this year, to be held in St Andrews on Saturday 5th March.  
 
