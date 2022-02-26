@@ -19,8 +19,4 @@ Address:  \
 Students' Association \
 St Mary's Place \
 St Andrews \
-<<<<<<< HEAD
-KY16 9AJ  
-=======
 KY16 9UZ
->>>>>>> 2d1f0d980df0e715988991759cae436493338169
