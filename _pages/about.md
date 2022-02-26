@@ -16,7 +16,11 @@ If you would like to donate a problem that could be used for our competition or 
 Email: [sums@st-andrews.ac.uk](mailto:sums@st-andrews.ac.uk)
 
 Address:  \
-University of St Andrews \
-College Gate \
+Students' Association \
+St Mary's Place \
 St Andrews \
+<<<<<<< HEAD
 KY16 9AJ  
+=======
+KY16 9UZ
+>>>>>>> 2d1f0d980df0e715988991759cae436493338169
