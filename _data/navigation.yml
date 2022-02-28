@@ -7,3 +7,5 @@ main:
     url: /about/
   - title: "Organisers"
     url: /organisers/
+  - title: "Rules"
+    url: /rules/
