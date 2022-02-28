@@ -3,9 +3,9 @@ main:
     url: /registrations/
   - title: "Schedule"
     url: /schedule/
+  - title: "Rules"
+    url: /rules/
   - title: "About"
     url: /about/
   - title: "Organisers"
     url: /organisers/
-  - title: "Rules"
-    url: /rules/
