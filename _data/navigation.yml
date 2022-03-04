@@ -7,7 +7,7 @@ main:
     url: /schedule/
   - title: "Venue"
     url: /venue/
-  - title: "Organisers"
-    url: /organisers/
   - title: "Rules"
     url: /rules/
+  - title: "Organisers"
+    url: /organisers/
