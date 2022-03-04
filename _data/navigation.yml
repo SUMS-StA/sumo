@@ -5,6 +5,8 @@ main:
     url: /registrations/
   - title: "Schedule"
     url: /schedule/
+  - title: "Venue"
+    url: /venue/
   - title: "Organisers"
     url: /organisers/
   - title: "Rules"
