@@ -1,10 +1,10 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Registrations"
     url: /registrations/
   - title: "Schedule"
     url: /schedule/
-  - title: "About"
-    url: /about/
   - title: "Organisers"
     url: /organisers/
   - title: "Rules"
