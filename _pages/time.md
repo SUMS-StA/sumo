@@ -12,5 +12,5 @@ permalink: /time/
 </div>
 
 ## Corrections
-Questoin 3: Note that the x and y in G should be **distinct**
+Question 3: Note that the x and y in G should be **distinct**
 Question 5: Explain precisely that, on Bob's turn, he colours his squares in **BLUE**.
