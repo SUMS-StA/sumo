@@ -9,7 +9,12 @@ main:
     url: /venue/
   - title: "Rules"
     url: /rules/
+<<<<<<< HEAD
   - title: "Question Papers"
     url: /question_papers/
   - title: "Organisers"
     url: /organisers/
+=======
+  - title: "Organisers"
+    url: /organisers/
+>>>>>>> ea705d83492c8927240fc7506f285c3e2d78479f
