@@ -13,5 +13,5 @@ If you have any trouble finding the venue, please don’t hesitate to contact us
 
 Going on Street View at the location of the dropped pin below will show a brown door to the left a blue plaque. This is the entrance to Parliament Hall.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10520.04316122516!2d-2.8036937391788683!3d56.33730106028568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488657902e2c6d77%3A0xc73399cd47ccaabb!2sSchool%20of%20Psychology%20and%20Neuroscience%20-%20University%20of%20St%20Andrews!5e0!3m2!1sen!2suk!4v1646366990754!5m2!1sen!2suk" width="100%" height="432px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10520.04316122516!2d-2.8036937391788683!3d56.33730106028568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488657902e2c6d77%3A0xc73399cd47ccaabb!2sSchool%20of%20Psychology%20and%20Neuroscience%20-%20University%20of%20St%20Andrews!5e0!3m2!1sen!2suk!4v1646366990754!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
