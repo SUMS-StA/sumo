@@ -11,3 +11,5 @@ main:
     url: /organisers/
   - title: "Rules"
     url: /rules/
+  - title: "Question Papers"
+    url: /question_papers/
