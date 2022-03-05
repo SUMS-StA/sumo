@@ -9,6 +9,8 @@ main:
     url: /venue/
   - title: "Rules"
     url: /rules/
+  - title: "Question Papers"
+    url: /question_papers/
   - title: "Organisers"
     url: /organisers/
   - title: "Question Paper"
