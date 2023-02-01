@@ -5,6 +5,8 @@ permalink: /venue/
 
 Our competition will be taking place in University of Glasgow's [Hunter Halls](https://www.gla.ac.uk/myglasgow/cateringandevents/conferencesandevents/venues/hunterhalls/). 
 
+From University Avenue, pass through the memorial gate and through the pedestrian tunnel to the main building.
+
 If you have any trouble finding the venue, please don’t hesitate to contact us.
 
 ## Map
