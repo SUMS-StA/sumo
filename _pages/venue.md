@@ -3,7 +3,7 @@ title: Venue
 permalink: /venue/
 ---
 
-Our competition will be taking place in University of Glasgow's [Parliament Hall](https://www.gla.ac.uk/myglasgow/cateringandevents/conferencesandevents/venues/hunterhalls/). 
+Our competition will be taking place in University of Glasgow's [Hunter Halls](https://www.gla.ac.uk/myglasgow/cateringandevents/conferencesandevents/venues/hunterhalls/). 
 
 If you have any trouble finding the venue, please don’t hesitate to contact us.
 
