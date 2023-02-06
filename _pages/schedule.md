@@ -13,8 +13,8 @@ It will be free to attend, however teams are expected to organise their own tran
 > 
 > 09:45 – 10:00: Introduction 
 > 
-> 10:00 – 14:00: Main Round 
+> 10:00 – 13:00: Main Round 
 > 
-> 14:00 – 15:00: Break 
+> 13:00 – 14:30: Break 
 > 
-> 15:00 onwards: Optional Social 
+> 14:30 onwards: Optional Social 
