@@ -1,7 +1,9 @@
 ---
-title: "Orgnisers"
+title: "Organisers"
 permalink: /organisers/
 ---
+
+This year, SUMO was organised by mathematics societies in Aberdeen, Glasgow, Heriot Watt, and St Andrews.
 
 ## SUMS Committee:
 
