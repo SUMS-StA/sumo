@@ -5,4 +5,7 @@ redirect_from:
     - /question_paper/
 ---
 
-The SUMO 2022 Question Paper can be accessed [here]( {{ "/assets/pdfs/SUMO_Questions_2022.pdf" | relative_url }}). 
+Below are the papers for the previous years. 
+
+- [2022]({{ "/assets/pdfs/SUMO_Questions_2022.pdf" | relative_url }})
+- [2023]({{ "/assets/pdfs/SUMO_Questions_2023.pdf" | relative_url }})
