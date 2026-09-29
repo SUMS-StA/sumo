@@ -3,11 +3,10 @@ title: Venue
 permalink: /venue/
 ---
 
-Our competition will be taking place in University of Glasgow's [Hunter Halls](https://www.gla.ac.uk/myglasgow/cateringandevents/conferencesandevents/venues/hunterhalls/). 
+This SUMO, teams from competing universities will sit the paper at their respective universities.
 
-From University Avenue, pass through the memorial gate and through the pedestrian tunnel to the main building.
+Please refer to the registrations page for further information about arrangements at your university.
 
-If you have any trouble finding the venue, please don’t hesitate to contact us.
 
 ## Map
 
