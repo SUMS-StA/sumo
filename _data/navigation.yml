@@ -13,3 +13,5 @@ main:
     url: /question_papers/
   - title: "Organisers"
     url: /organisers/
+  - title: "Problem Submissions"
+    url: /problem-submissions/

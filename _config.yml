@@ -57,9 +57,9 @@ plugins:
 author:
   name   : "SUMO"
   avatar : "assets/images/SUMOLOGO.jpg"
-  bio    : "I am a cute nerd who is good at maths."
+  bio    : "I can promise this isn't vibe coded."
   links:
-    - label: "SUMO Facebook Event"
+    - label: "SUMO Facebook Event (OLD)"
       icon: "fab fa-fw fa-facebook"
       url: "https://fb.me/e/4nglYysL9"
     - label: "SUMO Discord"
@@ -114,7 +114,7 @@ tag_archive:
   path: /tags/
 
 copyright:
-  year: "2022"
+  year: "2022-2026"
   holder: "St Andrews University Mathematics Society"
 
 atom_feed:

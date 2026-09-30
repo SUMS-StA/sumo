@@ -5,6 +5,8 @@ permalink: /organisers/
 
 This year, SUMO was organised by mathematics societies in Aberdeen, Glasgow, Heriot Watt, and St Andrews.
 
+We would like to extend our special thanks to George Yu, who kickstarted the re-organisation of SUMO for 2027. 
+
 ## SUMS Committee:
 
 President: Alisa Senses
