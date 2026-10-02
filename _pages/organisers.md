@@ -7,6 +7,17 @@ This year, SUMO was organised by mathematics societies in Aberdeen, Glasgow, Her
 
 We would like to extend our special thanks to George Yu, who kickstarted the re-organisation of SUMO for 2027. 
 
+## SUMO Subcommitee:
+
+Lead Organiser: George Yu
+
+Logistics Coordinator: Chenmay Komandur
+
+Problem Coordinator: Max Farrow
+
+SUMS Liason: Alisa Senses
+
+
 ## SUMS Committee:
 
 President: Alisa Senses
