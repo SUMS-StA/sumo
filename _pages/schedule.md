@@ -3,11 +3,11 @@ title: Schedule
 permalink: /schedule/
 ---
 
-The event will take place on **Saturday 25th March** in University of Glasgow.  
+The event will take place on **Saturday 20th March 2027** 
 
-After the main competition, all contestants will be invited for an optional social to provide an opportunity to network and meet likeminded students from other universities. 
+Problems Submissions will open on **Friday 16th October** and close on **Friday 29th January**
 
-It will be free to attend, however teams are expected to organise their own transport to and from Glasgow. 
+## Example Competition Schedule
 
 > 09:00 – 09:45: Arrival 
 > 
@@ -17,4 +17,4 @@ It will be free to attend, however teams are expected to organise their own tran
 > 
 > 13:00 – 14:30: Break 
 > 
-> 14:30 onwards: Optional Social 
+> 14:30 onwards: Optional Social organised by your university.

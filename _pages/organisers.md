@@ -5,35 +5,47 @@ permalink: /organisers/
 
 This year, SUMO was organised by mathematics societies in Aberdeen, Glasgow, Heriot Watt, and St Andrews.
 
+We would like to extend our special thanks to George Yu, who kickstarted the re-organisation of SUMO for 2027. 
+
+## SUMO Subcommitee:
+
+Lead Organiser: George Yu
+
+Logistics Coordinator: Chenmay Komandur
+
+Problem Coordinator: Max Farrow
+
+SUMS Liason: Alisa Senses
+
+
 ## SUMS Committee:
 
-President: Daniel Roebuck
+President: Alisa Senses
 
-Vice President: Arina Bekenova
+Vice President: Cailan
 
-Treasurer: Jess Kettlewood
+Treasurer: Antoine
 
-Secretary: Leo Doherty
+Secretary: Vivienne
 
-Social Rep: Ella Yates
+Problem Curator: Max Farrow
 
-First Year Rep: Katie Eremina 
+Social Rep: Olivia
 
-Postgraduate Rep:
+Freshers Rep: Magnus Shanks
 
-Publicity Rep: Daniel Chavez
+Publicity Rep: Maria Smithson
 
-Problem Curator: Rhys Murphy
+Events and Outreach Officers: Atharva and Thomas
 
-Events and Outreach Officer:
+Technical Officer: Charlie Tovey
 
-Technical Officer: Deyao Chen
-
-Lecture Organiser: Ben Tocher
+Lecture Organiser: Aiden Conely
 
 General Committee Members: 
-- Callum Barber
-- Ifan Howells-Baines
-- Jun Kwon
-- Ioannis Dabos-Doukas
-- Peiran Wu
+- Tamlin
+- Lilian Contius
+- Aiyan Hussain
+- Saanvi
+- 
+-

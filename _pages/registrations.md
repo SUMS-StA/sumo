@@ -1,14 +1,14 @@
 ---
-permalink: /registrations/
-title: "Registrations"
+permalink: /register/
+title: "Register"
 ---
 
 Different universities manage their own registration so please select your university from below.
 
-**Edinburgh**: <https://forms.office.com/e/SdEXew6fjB>
+**Edinburgh**: Coming Soon
 
-**St Andrews**: <https://forms.office.com/e/wScBpn7xZx>
+**St Andrews**: Coming Soon
 
-**Glasgow**: <https://forms.office.com/e/w0fiG6X6KT>
+**Glasgow**: Coming Soon
 
-**Heriot-Watt**: <https://forms.office.com/e/wnyYJAb6qp>
+**Heriot-Watt**: Coming Soon
