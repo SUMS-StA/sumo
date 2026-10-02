@@ -1,6 +1,6 @@
 ---
-permalink: /registrations/
-title: "Registrations"
+permalink: /register/
+title: "Register"
 ---
 
 Different universities manage their own registration so please select your university from below.
