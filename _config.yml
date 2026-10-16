@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "SUMO"
   avatar : "assets/images/SUMOLOGO.jpg"
-  bio    : "I can promise this isn't vibe coded."
+  bio    : "Contacts:"
   links:
     - label: "SUMO Facebook Event (OLD)"
       icon: "fab fa-fw fa-facebook"
