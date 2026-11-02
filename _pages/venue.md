@@ -3,9 +3,9 @@ title: Venue
 permalink: /venue/
 ---
 
-This SUMO, teams from competing universities will sit the paper at their respective universities.
+The venue for SUMO 2027 will be the University of St Andrews!
 
-Please refer to the registrations page for further information about arrangements at your university.
+Further information will be released closer to the date.
 
 
 
