@@ -3,17 +3,17 @@ title: "Organisers"
 permalink: /organisers/
 ---
 
-This year, SUMO was organised by mathematics societies in Aberdeen, Glasgow, Heriot Watt, and St Andrews.
+This year, SUMO was organised in collaboration with the mathematics society at the University of St Andrews, SUMS.
 
 We would like to extend our special thanks to George Yu, who kickstarted the re-organisation of SUMO for 2027. 
 
-## SUMO Subcommitee:
-
-Lead Organiser: George Yu
+## SUMO Committee:
 
 Logistics Coordinator: Chenmay Komandur
 
 Problem Coordinator: Max Farrow
+
+Communicaton and Outreach Coordinator: Thomas Robb
 
 SUMS Liason: Alisa Senses
 
@@ -47,5 +47,5 @@ General Committee Members:
 - Lilian Contius
 - Aiyan Hussain
 - Saanvi
-- 
--
+- Parker Freeman
+- Oscar Lawson

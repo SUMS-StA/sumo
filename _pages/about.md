@@ -7,7 +7,7 @@ The Scottish Universities Mathematics Olympiad (SUMO) is an (almost) annual team
 
 After realising the interaction among mathematics students in Scotland was limited by the lack of maths-focused inter-university events, the 2019 – 2020 SUMS committee successfully held the first SUMO competition in February 2020. The event was unfortunately cancelled in 2021 due to the ongoing coronavirus pandemic but returned in 2022 in St Andrews. Continuing this year, the competition is to be held at multiple venues across competing universities.
 
-All undergraduate students (regardless of year or department) are welcome to compete, as the problems are designed to be accessible, with minimal background knowledge required. This year’s questions will be of a similar nature to those from the British Mathematical Olympiad and Imperial-Cambridge Mathematics Competition. 
+All subhonours students, regardless of department, are welcome to compete. The problems are designed to be accessible, with minimal background knowledge required. This year’s questions will be of a similar nature to those of the British Mathematical Olympiad and the Imperial-Cambridge Mathematics Competition. 
 
 If you would like to donate a problem that could be used for our competition or have any questions at all, please contact us via email. 
 
